@@ -1,0 +1,4 @@
+ ID,createdAt,createdBy,modifiedAt,modifiedBy,Status,CompanyToday_CompanyCode
+ 5d7e76bd-4579-4f24-ac06-e4ac7c892fe8,2023-01-19T15:09:39.346Z,Usuario1,2023-01-18T15:09:39.346Z,anonymous,Ready,100
+ 87feaa38-9cde-44d2-9bbc-996737e160f1,2023-01-18T15:09:39.346Z,Usuario2,2023-01-19T15:09:39.346Z,anonymous,Ready,100
+ 4e8b4b3a-c08d-4e9e-b914-753dd38812f6,2023-01-19T15:09:39.346Z,Usuario200,2023-01-19T15:09:39.346Z,anonymous,Not Ready,200
